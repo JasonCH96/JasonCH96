@@ -1,5 +1,5 @@
 # Hi, I'm Jason! 👋
-### Systems Engineering Student | Junior QA Engineer | Full-Stack Developer
+### Systems Engineering Student | Full-Stack Developer | QA Engineer 
 
 - 📍 Based in Costa Rica
 - 🎓 Currently studying Systems Engineering
