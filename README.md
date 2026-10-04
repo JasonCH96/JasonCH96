@@ -3,7 +3,7 @@
 -    Portfolio: https://www.jasoncastro.dev/
 - 📍 Based in Costa Rica
 - 🎓 Currently studying Systems Engineering
-- 💼 Hospitality Operations Manager with a passion for Software Quality and Development.
+- 💼 Hospitality Operations Manager with a passion for Software Development & QA.
 
 ## 🚀 About Me
 I’m a Systems Engineering student with a background in Operations Management and Banking. Why does that matter? Because it allows me to see the "big picture" behind the code.
